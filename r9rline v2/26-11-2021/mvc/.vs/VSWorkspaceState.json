@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controller",
+    "\\core",
+    "\\model",
+    "\\view",
+    "\\view\\accueil",
+    "\\view\\article"
+  ],
+  "SelectedNode": "\\core\\Model.php",
+  "PreviewInSolutionExplorer": false
+}
